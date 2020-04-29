@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="nztest3" max_length="40" name="x_58872_needit_nztest3" type="collection">
+        <element label="id" max_length="40" name="id" type="integer"/>
+        <element label="taskname" max_length="40" name="taskname" type="string"/>
+    </element>
+</database>
